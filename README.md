@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JasperPlant
 - 👀 I’m interested in Home Automation
 - 🌱 I’m currently learning to stare in the distance
-- 💞️ I’m looking to collaborate on not much
+- 💞️ I’m not looking to collaborate, I am not much of a programmer.
 
 <!---
 JasperPlant/JasperPlant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
